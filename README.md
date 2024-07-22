@@ -4,31 +4,17 @@
   </div>
 </div>
 
-<h3 align="center">Languages:</h3>
-    <!--C-->
-    <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 50px>
-    <!--C++-->
-    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 50px>
-    <!--C#-->
-    <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 50px>
-    <!--Java-->
-    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width = 50px>
-    <!--js-->
-    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width = 50px>
-    <!--Python-->
-    <img src="https://img.icons8.com/color/48/null/python--v1.png" width = 50px>
-    <!--HTML-->
-    <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width = 50px title = "HTML 5">
-    <!--CSS-->
-    <img src="https://img.icons8.com/color/48/null/css3.png" width = 50px title = "CSS">
-<div align="center">
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimansu-fernando/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimansufernando@gmail.com)  
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimansufernando@gmail.com)
+  
 </div>
+
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
   
 </div>
 <!--
