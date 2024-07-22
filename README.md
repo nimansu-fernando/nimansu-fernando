@@ -13,7 +13,25 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
+<p>
+    <!--C-->
+    <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 30px>
+    <!--C++-->
+    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 30px>
+    <!--C#-->
+    <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 30px>
+    <!--Java-->
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width = 30px>
+    <!--js-->
+    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width = 30px>
+    <!--Python-->
+    <img src="https://img.icons8.com/color/48/null/python--v1.png" width = 30px>
+    <!--HTML-->
+    <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width = 30px title = "HTML 5">
+    <!--CSS-->
+    <img src="https://img.icons8.com/color/48/null/css3.png" width = 30px title = "CSS">
+  </p>
 <div align="center">
   
 </div>
