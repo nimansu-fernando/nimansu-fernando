@@ -4,7 +4,7 @@
   </div>
 </div>
 
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+<hr style="border: 0; height: 0.5px; background: #333; margin: 20px 0;">
 
 <h3 align="center">Languages and Tools:</h3>
 <div align=center>
