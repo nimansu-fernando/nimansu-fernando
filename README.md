@@ -3,9 +3,9 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=89939F&center=true&vCenter=true&width=500&lines=Hey%2C+I'm Nimansu Fernando;Welcome+to+my+profile!;" alt="Typing SVG" /></a>
   </div>
 </div>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
-<div>
+<div align=center>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -45,7 +45,7 @@
 
 </div>
 
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
